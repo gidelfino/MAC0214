@@ -18,3 +18,5 @@ O segundo arquivo problems.md mostrará os problemas resolvidos e será no segui
 Onde **ID** é um link para a resolução do problema (código) e **Nome** um link para o enunciado do problema.
 
 Importante ressaltar que ambos os arquivos serão organizados por semana e com frequência.
+
+Observações: O juíz OpenTrains funciona de forma diferente dos demais, para ver qualquer tipo de enunciado ou submissões é necessário ter um login e estes só são obtidos em "ocasiões especiais" (no meu caso devido ao instrutor russo durante o treinamento de verão na UNICAMP), sendo assim, se eu encontrar os enunciados em outro lugar, colocarei o link, caso contrário deixarei apenas o link para a resolução.
