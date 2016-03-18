@@ -1,5 +1,9 @@
 # Relatório de MAC0214 - Problemas
 
+##Semana 2 (14 - 21 Março)
+- SPOJ
+  - [nkleaves](https://github.com/yancouto/maratona-sua-mae/blob/master/Gi/spoj/nkleaves.cpp) | [NKLEAVES](http://www.spoj.com/problems/NKLEAVES/)
+
 ##Semana 1 (07 - 13 Março)
 - Codeforces
   - [608B](https://github.com/yancouto/maratona-sua-mae/blob/master/Gi/codeforces/608B.cpp) | [Hamming Distance Sum](http://codeforces.com/contest/608/problem/B)
