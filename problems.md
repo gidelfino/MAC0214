@@ -1,6 +1,21 @@
 # Relatório de MAC0214 - Problemas
 
-##Semana 2 (14 - 21 Março)
+##Semana 6 (11 - 17 Abril)
+- 
+
+##Semana 5 (04 - 10 Abril)
+- ICPC
+  - [2379](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2379) | [Hell on Markets](https://github.com/yancouto/maratona-sua-mae/blob/master/Gi/icpc/2379.cpp)
+
+##Semana 4 (28 Março - 03 Abril)
+- ICPC
+  - [2795] (https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=44&page=show_problem&problem=2795) | [Sharing Chocolate](https://github.com/yancouto/maratona-sua-mae/blob/master/Gi/icpc/2795.cpp)
+
+##Semana 3 (21 - 27 Março)
+- Codeforces
+  - [312D](http://codeforces.com/problemset/problem/312/D) | [Cats Transport](https://github.com/yancouto/maratona-sua-mae/blob/master/Gi/codeforces/312D.cpp)
+
+##Semana 2 (14 - 20 Março)
 - SPOJ
   - [nkleaves](https://github.com/yancouto/maratona-sua-mae/blob/master/Gi/spoj/nkleaves.cpp) | [NKLEAVES](http://www.spoj.com/problems/NKLEAVES/)
 
