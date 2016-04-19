@@ -1,5 +1,11 @@
 # Relatório de MAC0214 - Contests 
 
+##Semana 7 (18 - 24 Abril)
+#### Contest Codeforces Round [#331](http://codeforces.com/contest/596) (2h30)
+- [596A](http://codeforces.com/contest/596/problem/A) | [Wilbur and Swimming Pool](https://github.com/yancouto/maratona-sua-mae/tree/master/Gi/codeforces/596A.cpp)
+- [596B](http://codeforces.com/contest/596/problem/B) | [Wilbur and Array](https://github.com/yancouto/maratona-sua-mae/tree/master/Gi/codeforces/596B.cpp)
+- [596C](http://codeforces.com/contest/596/problem/C) | [Wilbur and Points](https://github.com/yancouto/maratona-sua-mae/tree/master/Gi/codeforces/596C.cpp)
+
 ##Semana 6 (11 - 17 Abril)
 
 ##Semana 5 (04 - 10 Abril)
