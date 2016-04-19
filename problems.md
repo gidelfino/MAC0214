@@ -1,5 +1,9 @@
 # Relatório de MAC0214 - Problemas
 
+##Semana 7 (18 - 24 Abril)
+- Codeforces
+  - [596D](http://codeforces.com/contest/596/problem/D) | [Wilbur and Trees](https://github.com/yancouto/maratona-sua-mae/blob/master/Gi/codeforces/596D.cpp)
+
 ##Semana 6 (11 - 17 Abril)
 - 
 
