@@ -1,5 +1,5 @@
 # MAC0214 - Objetivos
-Meu objetivo ao pariticipar de MAC0214 é treinar para a Maratona de Programação e obter uma boa classificação durante todas as fases dessa competição (Seletiva IME, Regional, Brasileira e Final Mundial) em todos os anos em que eu participar, em especial, conseguir um bom desempenho na Final Mundial a ser realizada em maio desse ano. Pretendo atingir essa meta principalmente resolvendo problemas nos principais juízes online (SPOJ, LiveArchive, UVA, CodeForces, Timus, ...) e também pariticipando de contests que simulam a competição tanto individual quanto em equipe.
+Meu objetivo ao pariticipar de MAC0214 é treinar para a Maratona de Programação e obter uma boa classificação durante todas as fases dessa competição (Seletiva IME, Regional, Brasileira e Final Mundial) em todos os anos em que eu participar. Pretendo atingir essa meta principalmente resolvendo problemas nos principais juízes online (SPOJ, LiveArchive, UVA, CodeForces, Timus, ...) e também pariticipando de contests que simulam a competição.
 
 Será possível acompanhar meu progresso pela minha conta no [Ahmed Aly] (http://a2oj.com/profile?Username=gidelfino) e também pelos dois arquivos que criei, o arquivo contests.md mostrará os contests que participei no seguinte formato:
 
