@@ -8,6 +8,12 @@ Será possível acompanhar meu progresso pela minha conta no [Ahmed Aly] (http:/
 >- ...
 
 Onde **Nome do Juiz** é um link para o ranking final do contest (se existir) e **Outros Integrantes** são os nomes dos outros paritipantes caso o contest seja em grupo.
+Alm disso conterá as aulas que dei no seguinte formato:
+
+>Aula **Assunto da Aula** (**Duração**)
+>- **Link para vídeo e/ou foto.**
+
+Onde **Link para vídeo e/ou foto** é um link para vídeo gravado da aula, caso exista, e para foto caso contrário.
 
 O segundo arquivo problems.md mostrará os problemas resolvidos e será no seguinte formato:
 
