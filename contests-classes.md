@@ -1,5 +1,11 @@
 # Relatório de MAC0214 - Contests 
 
+>Contest **[Codeforces](http://codeforces.com/contest/723)** (**2h30**)
+>- [723A](http://codeforces.com/contest/723/problem/A)|[The new year: Meeting Friends](https://github.com/gidelfino/maratona/tree/master/codeforces/723/723A.cpp)
+>- [723B](http://codeforces.com/contest/723/problem/B)|[Text Document Analysis](https://github.com/gidelfino/maratona/tree/master/codeforces/723/723B.cpp)
+>- [723C](http://codeforces.com/contest/723/problem/C)|[Polycarp at the Radio](https://github.com/gidelfino/maratona/tree/master/codeforces/723/723C.cpp)
+>- [723D](http://codeforces.com/contest/723/problem/D)|[Lakes in Berland](https://github.com/gidelfino/maratona/tree/master/codeforces/723/723D.cpp)
+
 >Contest **[Codeforces](http://codeforces.com/contest/776)** (**2h30**)
 >- [776A](http://codeforces.com/contest/776/problem/A)|[A Serial Killer](https://github.com/gidelfino/maratona/tree/master/codeforces/776/A.cpp)
 >- [776B](http://codeforces.com/contest/776/problem/B)|[Sherlock and his girlfriend](https://github.com/gidelfino/maratona/tree/master/codeforces/776/B.cpp)
