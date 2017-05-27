@@ -1,23 +1,28 @@
 # Relatório de MAC0214 - Contests 
 
->Contest **[Codeforces](http://codeforces.com/contest/723)** (**2h30**)
+>Contest **[Codeforces Round 725](http://codeforces.com/contest/725)** (**2h30**)
+>- [725A](http://codeforces.com/contest/725/problem/A)|[Jumping Ball](https://github.com/gidelfino/maratona/tree/master/codeforces/725/A.cpp)
+>- [725B](http://codeforces.com/contest/725/problem/B)|[Food on the Plane](https://github.com/gidelfino/maratona/tree/master/codeforces/725/B.cpp)
+>- [725C](http://codeforces.com/contest/725/problem/C)|[Hidden Word](https://github.com/gidelfino/maratona/tree/master/codeforces/725/C.cpp)
+
+>Contest **[Codeforces Round 723](http://codeforces.com/contest/723)** (**2h30**)
 >- [723A](http://codeforces.com/contest/723/problem/A)|[The new year: Meeting Friends](https://github.com/gidelfino/maratona/tree/master/codeforces/723/723A.cpp)
 >- [723B](http://codeforces.com/contest/723/problem/B)|[Text Document Analysis](https://github.com/gidelfino/maratona/tree/master/codeforces/723/723B.cpp)
 >- [723C](http://codeforces.com/contest/723/problem/C)|[Polycarp at the Radio](https://github.com/gidelfino/maratona/tree/master/codeforces/723/723C.cpp)
 >- [723D](http://codeforces.com/contest/723/problem/D)|[Lakes in Berland](https://github.com/gidelfino/maratona/tree/master/codeforces/723/723D.cpp)
 
->Contest **[Codeforces](http://codeforces.com/contest/776)** (**2h30**)
+>Contest **[Codeforces Round 776](http://codeforces.com/contest/776)** (**2h30**)
 >- [776A](http://codeforces.com/contest/776/problem/A)|[A Serial Killer](https://github.com/gidelfino/maratona/tree/master/codeforces/776/A.cpp)
 >- [776B](http://codeforces.com/contest/776/problem/B)|[Sherlock and his girlfriend](https://github.com/gidelfino/maratona/tree/master/codeforces/776/B.cpp)
 >- [776D](http://codeforces.com/contest/776/problem/D)|[The Door Problem](https://github.com/gidelfino/maratona/tree/master/codeforces/776/D.cpp)
 
->Contest **[Codeforces](http://codeforces.com/contest/761)** (**2h30**)
+>Contest **[Codeforces Round 761](http://codeforces.com/contest/761)** (**2h30**)
 >- [761A](http://codeforces.com/contest/761/problem/A)|[Dasha and Stairs](https://github.com/gidelfino/maratona/tree/master/codeforces/761/A.cpp)
 >- [761B](http://codeforces.com/contest/761/problem/B)|[Dasha and Friends](https://github.com/gidelfino/maratona/tree/master/codeforces/761/B.cpp)
 >- [761C](http://codeforces.com/contest/761/problem/C)|[Dasha and Password](https://github.com/gidelfino/maratona/tree/master/codeforces/761/C.cpp)
 >- [761D](http://codeforces.com/contest/761/problem/D)|[Dasha and Very Difficult Problem](https://github.com/gidelfino/maratona/tree/master/codeforces/761/D.cpp)
 
->Contest **[Codeforces](http://codeforces.com/contest/722)** (**2h30**)
+>Contest **[Codeforces Round 722](http://codeforces.com/contest/722)** (**2h30**)
 >- [722A](http://codeforces.com/contest/722/problem/A)|[Broken Clock](https://github.com/gidelfino/maratona/tree/master/codeforces/722/722A.cpp)
 >- [722B](http://codeforces.com/contest/722/problem/B)|[Verse Pattern](https://github.com/gidelfino/maratona/tree/master/codeforces/722/722B.cpp)
 >- [722C](http://codeforces.com/contest/722/problem/C)|[Destroying Array](https://github.com/gidelfino/maratona/tree/master/codeforces/722/722C.cpp)
