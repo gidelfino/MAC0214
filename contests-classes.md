@@ -1,5 +1,24 @@
 # Relatório de MAC0214 - Contests 
 
+>Contest **[Codeforces Round 764](http://codeforces.com/contest/764)** (**2h30**)
+>- [764A](http://codeforces.com/contest/764/problem/A)|[Tamyr is calling you](https://github.com/gidelfino/maratona/tree/master/codeforces/764/A.cpp)
+>- [764B](http://codeforces.com/contest/764/problem/B)|[Timofey and cubes](https://github.com/gidelfino/maratona/tree/master/codeforces/764/B.cpp)
+>- [764C](http://codeforces.com/contest/764/problem/C)|[Timofey and a tree](https://github.com/gidelfino/maratona/tree/master/codeforces/764/C.cpp)
+
+>Contest **[Codeforces Round 762](http://codeforces.com/contest/762)** (**2h30**)
+>- [762A](http://codeforces.com/contest/762/problem/A)|[k-th divisor](https://github.com/gidelfino/maratona/tree/master/codeforces/762/A.cpp)
+>- [762B](http://codeforces.com/contest/762/problem/B)|[USB vs PS/2](https://github.com/gidelfino/maratona/tree/master/codeforces/762/B.cpp)
+
+>Contest **[Codeforces Round 732](http://codeforces.com/contest/732)** (**2h30**)
+>- [732A](http://codeforces.com/contest/732/problem/A)|[Buy a Shovel](https://github.com/gidelfino/maratona/tree/master/codeforces/732/A.cpp)
+>- [732B](http://codeforces.com/contest/732/problem/B)|[Cormen](https://github.com/gidelfino/maratona/tree/master/codeforces/732/B.cpp)
+>- [732C](http://codeforces.com/contest/732/problem/C)|[Sanatorium](https://github.com/gidelfino/maratona/tree/master/codeforces/732/C.cpp)
+
+>Contest **[Codeforces Round 731](http://codeforces.com/contest/731)** (**2h**)
+>- [731A](http://codeforces.com/contest/731/problem/A)|[Night at the Museum](https://github.com/gidelfino/maratona/tree/master/codeforces/731/A.cpp)
+>- [731B](http://codeforces.com/contest/731/problem/B)|[Coupons and Discounts](https://github.com/gidelfino/maratona/tree/master/codeforces/731/B.cpp)
+>- [731C](http://codeforces.com/contest/731/problem/C)|[Socks](https://github.com/gidelfino/maratona/tree/master/codeforces/725/C.cpp)
+
 >Contest **[Codeforces Round 725](http://codeforces.com/contest/725)** (**2h30**)
 >- [725A](http://codeforces.com/contest/725/problem/A)|[Jumping Ball](https://github.com/gidelfino/maratona/tree/master/codeforces/725/A.cpp)
 >- [725B](http://codeforces.com/contest/725/problem/B)|[Food on the Plane](https://github.com/gidelfino/maratona/tree/master/codeforces/725/B.cpp)
