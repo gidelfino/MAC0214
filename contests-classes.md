@@ -1,5 +1,12 @@
 # Relatório de MAC0214 - Contests 
 
+>Contest **[Codeforces Round 745](http://codeforces.com/contest/745)** (**2h30**)
+>- [745A](http://codeforces.com/contest/745/problem/A)|[Hongcow Learns the Cyclic Shift
+](https://github.com/gidelfino/maratona/tree/master/codeforces/745/A.cpp)
+>- [745B](http://codeforces.com/contest/745/problem/B)|[Hongcow Solves A Puzzle](https://github.com/gidelfino/maratona/tree/master/codeforces/745/B.cpp)
+>- [745C](http://codeforces.com/contest/745/problem/C)|[Hongcow Builds A Nation](https://github.com/gidelfino/maratona/tree/master/codeforces/745/C.cpp)
+>- [745D](http://codeforces.com/contest/745/problem/D)|[Hongcow's Game](https://github.com/gidelfino/maratona/tree/master/codeforces/745/D.cpp)
+
 >Contest **[Codeforces Round 764](http://codeforces.com/contest/764)** (**2h30**)
 >- [764A](http://codeforces.com/contest/764/problem/A)|[Tamyr is calling you](https://github.com/gidelfino/maratona/tree/master/codeforces/764/A.cpp)
 >- [764B](http://codeforces.com/contest/764/problem/B)|[Timofey and cubes](https://github.com/gidelfino/maratona/tree/master/codeforces/764/B.cpp)
