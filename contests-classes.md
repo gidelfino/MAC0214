@@ -54,6 +54,56 @@
 >- [722C](http://codeforces.com/contest/722/problem/C)|[Destroying Array](https://github.com/gidelfino/maratona/tree/master/codeforces/722/722C.cpp)
 >- [722D](http://codeforces.com/contest/722/problem/D)|[Generating Sets](https://github.com/gidelfino/maratona/tree/master/codeforces/722/722D.cpp)
 
+>Contest **[Codeforces Round 580](http://codeforces.com/contest/580)** (**2h30**)
+>- [580A](http://codeforces.com/contest/580/problem/A)|[Kefa and Firsts Steps](https://github.com/gidelfino/maratona/tree/master/codeforces/580/580A.cpp)
+>- [580B](http://codeforces.com/contest/580/problem/B)|[Kefa and Company](https://github.com/gidelfino/maratona/tree/master/codeforces/580/580B.cpp)
+>- [580C](http://codeforces.com/contest/580/problem/C)|[Kefa and Park](https://github.com/gidelfino/maratona/tree/master/codeforces/580/580C.cpp)
+>- [580D](http://codeforces.com/contest/580/problem/D)|[Kefa and Dishes](https://github.com/gidelfino/maratona/tree/master/codeforces/580/580D.cpp)
+
+>Contest **[Codeforces Round 584](http://codeforces.com/contest/584)** (**2h30**)
+>- [584A](http://codeforces.com/contest/584/problem/A)|[Olesya and Rodion](https://github.com/gidelfino/maratona/tree/master/codeforces/584/584A.cpp)
+>- [584B](http://codeforces.com/contest/584/problem/B)|[Kolya and Tanya](https://github.com/gidelfino/maratona/tree/master/codeforces/584/584B.cpp)
+>- [584C](http://codeforces.com/contest/584/problem/C)|[Marina and Vasya](https://github.com/gidelfino/maratona/tree/master/codeforces/584/584C.cpp)
+
+>Contest **[Codeforces Round 596](http://codeforces.com/contest/596)** (**2h30**)
+>- [596A](http://codeforces.com/contest/596/problem/A)|[Wilbur and Swimming Pool](https://github.com/gidelfino/maratona/tree/master/codeforces/596/596A.cpp)
+>- [596B](http://codeforces.com/contest/596/problem/B)|[Wilbur and Array](https://github.com/gidelfino/maratona/tree/master/codeforces/596/596B.cpp)
+>- [596C](http://codeforces.com/contest/596/problem/C)|[Wilbur and Points](https://github.com/gidelfino/maratona/tree/master/codeforces/596/596C.cpp)
+
+>Contest **[Codeforces Round 599](http://codeforces.com/contest/599)** (**2h30**)
+>- [599A](http://codeforces.com/contest/599/problem/A)|[Patrick and Shopping](https://github.com/gidelfino/maratona/tree/master/codeforces/599/599A.cpp)
+>- [599B](http://codeforces.com/contest/599/problem/B)|[Spongebob and Joke](https://github.com/gidelfino/maratona/tree/master/codeforces/599/599B.cpp)
+>- [599C](http://codeforces.com/contest/599/problem/C)|[Day at the Beach](https://github.com/gidelfino/maratona/tree/master/codeforces/599/599C.cpp)
+
+>Contest **[Codeforces Round 602](http://codeforces.com/contest/602)** (**2h30**)
+>- [602A](http://codeforces.com/contest/602/problem/A)|[Two Bases](https://github.com/gidelfino/maratona/tree/master/codeforces/602/602A.cpp)
+>- [602B](http://codeforces.com/contest/602/problem/B)|[Approximating a Constant Range](https://github.com/gidelfino/maratona/tree/master/codeforces/602/602B.cpp)
+>- [602C](http://codeforces.com/contest/602/problem/C)|[The Two Routes](https://github.com/gidelfino/maratona/tree/master/codeforces/602/602C.cpp)
+
+>Contest **[Codeforces Round 604](http://codeforces.com/contest/604)** (**2h30**)
+>- [604A](http://codeforces.com/contest/604/problem/A)|[Uncowed Forces](https://github.com/gidelfino/maratona/tree/master/codeforces/604/604A.cpp)
+>- [604B](http://codeforces.com/contest/604/problem/B)|[More Cowbell](https://github.com/gidelfino/maratona/tree/master/codeforces/604/604B.cpp)
+>- [604C](http://codeforces.com/contest/604/problem/C)|[Alternative Thinking](https://github.com/gidelfino/maratona/tree/master/codeforces/604/604C.cpp)
+
+>Contest **[Codeforces Round 606](http://codeforces.com/contest/606)** (**2h30**)
+>- [606A](http://codeforces.com/contest/606/problem/A)|[Magic Spheres](https://github.com/gidelfino/maratona/tree/master/codeforces/606/606A.cpp)
+>- [606B](http://codeforces.com/contest/606/problem/B)|[Testing Robots](https://github.com/gidelfino/maratona/tree/master/codeforces/606/606B.cpp)
+>- [606C](http://codeforces.com/contest/606/problem/C)|[Sorting Railway Cars](https://github.com/gidelfino/maratona/tree/master/codeforces/606/606C.cpp)
+>- [606D](http://codeforces.com/contest/606/problem/D)|[Lazy Student](https://github.com/gidelfino/maratona/tree/master/codeforces/606/606D.cpp)
+
+>Contest **[Codeforces Round 608](http://codeforces.com/contest/608)** (**2h30**)
+>- [608A](http://codeforces.com/contest/608/problem/A)|[Saitama Destroys Hotel](https://github.com/gidelfino/maratona/tree/master/codeforces/608/608A.cpp)
+>- [608B](http://codeforces.com/contest/608/problem/B)|[Hamming Distance Sum](https://github.com/gidelfino/maratona/tree/master/codeforces/608/608B.cpp)
+>- [608C](http://codeforces.com/contest/608/problem/C)|[Chain Reaction](https://github.com/gidelfino/maratona/tree/master/codeforces/608/608C.cpp)
+>- [608D](http://codeforces.com/contest/608/problem/D)|[Zuma](https://github.com/gidelfino/maratona/tree/master/codeforces/608/608D.cpp)
+
+>Contest **[Codeforces Round 610](http://codeforces.com/contest/610)** (**2h30**)
+>- [610A](http://codeforces.com/contest/610/problem/A)|[Pasha and Stick](https://github.com/gidelfino/maratona/tree/master/codeforces/610/610A.cpp)
+>- [610B](http://codeforces.com/contest/610/problem/B)|[Vika and Squares](https://github.com/gidelfino/maratona/tree/master/codeforces/610/610B.cpp)
+>- [610C](http://codeforces.com/contest/610/problem/C)|[Harmony Analysis](https://github.com/gidelfino/maratona/tree/master/codeforces/610/610C.cpp)
+
+
+
 >Aula **inicial para ingressantes 2017** (**5h**)
 >- [Fotos](https://drive.google.com/drive/folders/0B9xH1tDQHGLpZ3c5UzByVWpGODA?usp=sharing)
 
