@@ -102,7 +102,10 @@
 >- [610B](http://codeforces.com/contest/610/problem/B)|[Vika and Squares](https://github.com/gidelfino/maratona/tree/master/codeforces/610/610B.cpp)
 >- [610C](http://codeforces.com/contest/610/problem/C)|[Harmony Analysis](https://github.com/gidelfino/maratona/tree/master/codeforces/610/610C.cpp)
 
-
+>Contest **[Codeforces Round 721](http://codeforces.com/contest/721)** (**2h30**)
+>- [721A](http://codeforces.com/contest/721/problem/A)|[One-dimensional Japanese Crossword](https://github.com/gidelfino/maratona/tree/master/codeforces/721/721A.cpp)
+>- [721B](http://codeforces.com/contest/721/problem/B)|[Passwords](https://github.com/gidelfino/maratona/tree/master/codeforces/721/721B.cpp)
+>- [721C](http://codeforces.com/contest/721/problem/C)|[Journey](https://github.com/gidelfino/maratona/tree/master/codeforces/721/721C.cpp)
 
 >Aula **inicial para ingressantes 2017** (**5h**)
 >- [Fotos](https://drive.google.com/drive/folders/0B9xH1tDQHGLpZ3c5UzByVWpGODA?usp=sharing)
