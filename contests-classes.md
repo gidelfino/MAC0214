@@ -107,6 +107,60 @@
 >- [721B](http://codeforces.com/contest/721/problem/B)|[Passwords](https://github.com/gidelfino/maratona/tree/master/codeforces/721/721B.cpp)
 >- [721C](http://codeforces.com/contest/721/problem/C)|[Journey](https://github.com/gidelfino/maratona/tree/master/codeforces/721/721C.cpp)
 
+>Contest **[Codeforces Round 545](http://codeforces.com/contest/545)** (**2h30**)
+>- [545A](http://codeforces.com/contest/545/problem/A)|[Toy Cars](https://github.com/gidelfino/maratona/tree/master/codeforces/545/545A.cpp)
+>- [545B](http://codeforces.com/contest/545/problem/B)|[Equidistant String](https://github.com/gidelfino/maratona/tree/master/codeforces/545/545B.cpp)
+>- [545D](http://codeforces.com/contest/545/problem/D)|[Queue](https://github.com/gidelfino/maratona/tree/master/codeforces/545/545D.cpp)
+
+>Contest **[Codeforces Round 546](http://codeforces.com/contest/546)** (**2h30**)
+>- [546A](http://codeforces.com/contest/546/problem/A)|[Soldier and Bananas](https://github.com/gidelfino/maratona/tree/master/codeforces/546/546A.cpp)
+>- [546B](http://codeforces.com/contest/546/problem/B)|[Soldier and Badges](https://github.com/gidelfino/maratona/tree/master/codeforces/546/546B.cpp)
+>- [546C](http://codeforces.com/contest/546/problem/C)|[Soldier and Cards](https://github.com/gidelfino/maratona/tree/master/codeforces/546/546C.cpp)
+
+>Contest **[Codeforces Round 556](http://codeforces.com/contest/556)** (**2h30**)
+>- [556A](http://codeforces.com/contest/556/problem/A)|[Case of the Zeros and Ones](https://github.com/gidelfino/maratona/tree/master/codeforces/556/556A.cpp)
+>- [556B](http://codeforces.com/contest/556/problem/B)|[Case of Fake Numbers](https://github.com/gidelfino/maratona/tree/master/codeforces/556/556B.cpp)
+>- [556C](http://codeforces.com/contest/556/problem/C)|[Case of Matryoshkas](https://github.com/gidelfino/maratona/tree/master/codeforces/556/556C.cpp)
+
+>Contest **[Codeforces Round 557](http://codeforces.com/contest/557)** (**2h30**)
+>- [557A](http://codeforces.com/contest/557/problem/A)|[Ilya and Diplomas](https://github.com/gidelfino/maratona/tree/master/codeforces/557/557A.cpp)
+>- [557B](http://codeforces.com/contest/557/problem/B)|[Pasha and Tea](https://github.com/gidelfino/maratona/tree/master/codeforces/557/557B.cpp)
+>- [557C](http://codeforces.com/contest/557/problem/C)|[Arthur and Table](https://github.com/gidelfino/maratona/tree/master/codeforces/557/557C.cpp)
+
+>Contest **[Codeforces Round 560](http://codeforces.com/contest/560)** (**2h30**)
+>- [560A](http://codeforces.com/contest/560/problem/A)|[Currency System in Geraldion](https://github.com/gidelfino/maratona/tree/master/codeforces/560/560A.cpp)
+>- [560B](http://codeforces.com/contest/560/problem/B)|[Gerald is into Art](https://github.com/gidelfino/maratona/tree/master/codeforces/560/560B.cpp)
+>- [560C](http://codeforces.com/contest/560/problem/C)|[Gerald's Hexagon](https://github.com/gidelfino/maratona/tree/master/codeforces/560/560C.cpp)
+>- [560D](http://codeforces.com/contest/560/problem/D)|[Equivalent Strings](https://github.com/gidelfino/maratona/tree/master/codeforces/560/560D.cpp)
+
+>Contest **[Codeforces Round 567](http://codeforces.com/contest/567)** (**2h30**)
+>- [567A](http://codeforces.com/contest/567/problem/A)|[Lineland Mail](https://github.com/gidelfino/maratona/tree/master/codeforces/567/567A.cpp)
+>- [567B](http://codeforces.com/contest/567/problem/B)|[Berland National Library](https://github.com/gidelfino/maratona/tree/master/codeforces/567/567B.cpp)
+>- [567C](http://codeforces.com/contest/567/problem/C)|[Geometric Progression](https://github.com/gidelfino/maratona/tree/master/codeforces/567/567C.cpp)
+>- [567D](http://codeforces.com/contest/567/problem/D)|[One-Dimensional Battle Ships](https://github.com/gidelfino/maratona/tree/master/codeforces/567/567D.cpp)
+
+>Contest **[Codeforces Round 569](http://codeforces.com/contest/569)** (**2h30**)
+>- [569A](http://codeforces.com/contest/569/problem/A)|[Music](https://github.com/gidelfino/maratona/tree/master/codeforces/569/569A.cpp)
+>- [569B](http://codeforces.com/contest/569/problem/B)|[Inventory](https://github.com/gidelfino/maratona/tree/master/codeforces/569/569B.cpp)
+
+>Contest **[Codeforces Round 570](http://codeforces.com/contest/570)** (**2h30**)
+>- [570A](http://codeforces.com/contest/570/problem/A)|[Elections](https://github.com/gidelfino/maratona/tree/master/codeforces/570/570A.cpp)
+>- [570B](http://codeforces.com/contest/570/problem/B)|[Simple Game](https://github.com/gidelfino/maratona/tree/master/codeforces/570/570B.cpp)
+>- [570C](http://codeforces.com/contest/570/problem/C)|[Replacement](https://github.com/gidelfino/maratona/tree/master/codeforces/570/570C.cpp)
+
+>Contest **[Codeforces Round 572](http://codeforces.com/contest/572)** (**2h30**)
+>- [572A](http://codeforces.com/contest/572/problem/A)|[Arrays](https://github.com/gidelfino/maratona/tree/master/codeforces/572/572A.cpp)
+>- [572B](http://codeforces.com/contest/572/problem/B)|[Order Book](https://github.com/gidelfino/maratona/tree/master/codeforces/572/572B.cpp)
+
+>Contest **[Codeforces Round 573](http://codeforces.com/contest/573)** (**2h30**)
+>- [573A](http://codeforces.com/contest/573/problem/A)|[Bear and Poker](https://github.com/gidelfino/maratona/tree/master/codeforces/573/573A.cpp)
+>- [573B](http://codeforces.com/contest/573/problem/B)|[Bear and Blocks](https://github.com/gidelfino/maratona/tree/master/codeforces/573/573B.cpp)
+
+>Contest **[Codeforces Round 577](http://codeforces.com/contest/577)** (**2h30**)
+>- [577A](http://codeforces.com/contest/577/problem/A)|[Multiplication Table](https://github.com/gidelfino/maratona/tree/master/codeforces/577/577A.cpp)
+>- [577B](http://codeforces.com/contest/577/problem/B)|[Modulo Sum](https://github.com/gidelfino/maratona/tree/master/codeforces/577/577B.cpp)
+>- [577C](http://codeforces.com/contest/577/problem/C)|[Vasya and Petya's Game](https://github.com/gidelfino/maratona/tree/master/codeforces/577/577C.cpp)
+
 >Aula **inicial para ingressantes 2017** (**5h**)
 >- [Fotos](https://drive.google.com/drive/folders/0B9xH1tDQHGLpZ3c5UzByVWpGODA?usp=sharing)
 
