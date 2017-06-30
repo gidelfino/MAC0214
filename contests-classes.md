@@ -168,6 +168,12 @@
 >- [540D](http://codeforces.com/contest/540/problem/D)|[Bad Luck Island](https://github.com/gidelfino/maratona/tree/master/codeforces/540/540D.cpp)
 >- [540E](http://codeforces.com/contest/540/problem/E)|[Infinite Inversions](https://github.com/gidelfino/maratona/tree/master/codeforces/540/540E.cpp)
 
+>Contest **[Codeforces Round 527](http://codeforces.com/contest/527)** (**2h30**)
+>- [527A](http://codeforces.com/contest/527/problem/A)|[Playing with Paper](https://github.com/gidelfino/maratona/tree/master/codeforces/527/527A.cpp)
+>- [527B](http://codeforces.com/contest/527/problem/B)|[Error Correct System](https://github.com/gidelfino/maratona/tree/master/codeforces/527/527B.cpp)
+>- [527C](http://codeforces.com/contest/527/problem/C)|[Glass Carving](https://github.com/gidelfino/maratona/tree/master/codeforces/527/527C.cpp)
+>- [527D](http://codeforces.com/contest/527/problem/D)|[Clique Problem](https://github.com/gidelfino/maratona/tree/master/codeforces/527/527D.cpp)
+
 >Aula **emparelhamento em grafos bipartidos** (**5h**)
 >- [Aula](https://drive.google.com/file/d/0B9xH1tDQHGLpMW5kTkxsMzRCNU0/view?usp=sharing)
 
