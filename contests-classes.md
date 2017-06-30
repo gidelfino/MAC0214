@@ -21,7 +21,7 @@
 >- [732B](http://codeforces.com/contest/732/problem/B)|[Cormen](https://github.com/gidelfino/maratona/tree/master/codeforces/732/B.cpp)
 >- [732C](http://codeforces.com/contest/732/problem/C)|[Sanatorium](https://github.com/gidelfino/maratona/tree/master/codeforces/732/C.cpp)
 
->Contest **[Codeforces Round 731](http://codeforces.com/contest/731)** (**2h**)
+>Contest **[Codeforces Round 731](http://codeforces.com/contest/731)** (**2h30**)
 >- [731A](http://codeforces.com/contest/731/problem/A)|[Night at the Museum](https://github.com/gidelfino/maratona/tree/master/codeforces/731/A.cpp)
 >- [731B](http://codeforces.com/contest/731/problem/B)|[Coupons and Discounts](https://github.com/gidelfino/maratona/tree/master/codeforces/731/B.cpp)
 >- [731C](http://codeforces.com/contest/731/problem/C)|[Socks](https://github.com/gidelfino/maratona/tree/master/codeforces/725/C.cpp)
@@ -173,6 +173,28 @@
 >- [527B](http://codeforces.com/contest/527/problem/B)|[Error Correct System](https://github.com/gidelfino/maratona/tree/master/codeforces/527/527B.cpp)
 >- [527C](http://codeforces.com/contest/527/problem/C)|[Glass Carving](https://github.com/gidelfino/maratona/tree/master/codeforces/527/527C.cpp)
 >- [527D](http://codeforces.com/contest/527/problem/D)|[Clique Problem](https://github.com/gidelfino/maratona/tree/master/codeforces/527/527D.cpp)
+
+>Contest **[Codeforces Round 520](http://codeforces.com/contest/520)** (**2h30**)
+>- [520A](http://codeforces.com/contest/520/problem/A)|[Pangram](https://github.com/gidelfino/maratona/tree/master/codeforces/520/520A.cpp)
+>- [520B](http://codeforces.com/contest/520/problem/B)|[Two Buttons](https://github.com/gidelfino/maratona/tree/master/codeforces/520/520B.cpp)
+
+>Contest **[Codeforces Round 496](http://codeforces.com/contest/496)** (**2h30**)
+>- [496A](http://codeforces.com/contest/496/problem/A)|[Minimum Difficulty](https://github.com/gidelfino/maratona/tree/master/codeforces/496/496A.cpp)
+>- [496B](http://codeforces.com/contest/496/problem/B)|[Secret Combination](https://github.com/gidelfino/maratona/tree/master/codeforces/496/496B.cpp)
+>- [496C](http://codeforces.com/contest/496/problem/C)|[Removing Columns](https://github.com/gidelfino/maratona/tree/master/codeforces/496/496C.cpp)
+>- [496D](http://codeforces.com/contest/496/problem/D)|[Tennis Game](https://github.com/gidelfino/maratona/tree/master/codeforces/496/496D.cpp)
+>- [496E](http://codeforces.com/contest/496/problem/E)|[Distributing Parts](https://github.com/gidelfino/maratona/tree/master/codeforces/496/496E.cpp)
+
+>Contest **[Codeforces Round 468](http://codeforces.com/contest/468)** (**2h30**)
+>- [468A](http://codeforces.com/contest/468/problem/A)|[24 Game](https://github.com/gidelfino/maratona/tree/master/codeforces/468/468A.cpp)
+>- [468B](http://codeforces.com/contest/468/problem/B)|[Two Sets](https://github.com/gidelfino/maratona/tree/master/codeforces/468/468B.cpp)
+>- [468C](http://codeforces.com/contest/468/problem/C)|[Hack it!](https://github.com/gidelfino/maratona/tree/master/codeforces/468/468C.cpp)
+
+>Contest **[Codeforces Round 462](http://codeforces.com/contest/462)** (**2h30**)
+>- [462A](http://codeforces.com/contest/462/problem/A)|[Appleman and Easy Task](https://github.com/gidelfino/maratona/tree/master/codeforces/462/462A.cpp)
+>- [462B](http://codeforces.com/contest/462/problem/B)|[Appleman and Card Game](https://github.com/gidelfino/maratona/tree/master/codeforces/462/462B.cpp)
+>- [462C](http://codeforces.com/contest/462/problem/C)|[Appleman and Toastman](https://github.com/gidelfino/maratona/tree/master/codeforces/462/462C.cpp)
+>- [462D](http://codeforces.com/contest/462/problem/D)|[Appleman and Tree](https://github.com/gidelfino/maratona/tree/master/codeforces/462/462D.cpp)
 
 >Aula **emparelhamento em grafos bipartidos** (**5h**)
 >- [Aula](https://drive.google.com/file/d/0B9xH1tDQHGLpMW5kTkxsMzRCNU0/view?usp=sharing)
